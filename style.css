@@ -38,3 +38,10 @@ ul {
     transform: translateY(-3px);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
+
+button{
+    padding: 4px 8px;
+    background-color: #924f4f;
+    color: white;
+    
+}
